@@ -10,6 +10,7 @@
 body {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   background: black;
+  font-size: 18px;
 }
 
 input {
@@ -19,6 +20,10 @@ input {
 
 form {
   display: inline-block;
+}
+
+ul {
+  font-size: 18px;
 }
 
 .centered {
