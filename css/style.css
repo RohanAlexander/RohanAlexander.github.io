@@ -6,6 +6,7 @@ body {
     font-family: 'Lato', sans-serif;
     color: #383838;
     font-weight: 300;
+    font-size: 20px;
 }
 
 .text-muted {
@@ -36,6 +37,14 @@ hr {
 
 a {
     color: #585858;
+}
+
+.col-md-4 {
+    text-align: left;
+}
+
+.col-md-11 {
+    text-align: left;
 }
 
 @media (max-width: 991px) {
