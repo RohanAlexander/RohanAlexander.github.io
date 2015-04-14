@@ -65,3 +65,10 @@ a {
         text-align: center;
     }
 }
+
+@media (max-width: 450px) {
+    .title-super {
+        font-size: 45px;
+    }
+
+}
